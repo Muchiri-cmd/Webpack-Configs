@@ -1,0 +1,12 @@
+@font-face{
+    font-family: 'nakedchick';
+    src: url('./nakedchick.ttf') format('truetype'),
+        url('./aAttackGraffiti.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+.hello {
+    color: red;
+    background: url('./webpack.png');
+    font-family: 'nakedchick';
+}
